@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1396945125 source:e:\c++\bridge\bridge.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"game.h"
+
+1397921381 e:\c++\bridge\game.h
+	<string>
+	"deck.h"
+	"hand.h"
+
+1397842264 e:\c++\bridge\deck.h
+	"card.h"
+	"random.h"
+
+1397842483 e:\c++\bridge\card.h
+
+1395236622 e:\c++\bridge\random.h
+
+1397921482 e:\c++\bridge\hand.h
+	<string>
+	<set>
+	"card.h"
+
+1397920729 source:e:\c++\bridge\card.cpp
+	<iostream>
+	"card.h"
+
+1397910854 source:e:\c++\bridge\deck.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"deck.h"
+
+1397921598 source:e:\c++\bridge\game.cpp
+	<iostream>
+	"game.h"
+
+1397921482 source:e:\c++\bridge\hand.cpp
+	<iostream>
+	<iomanip>
+	"hand.h"
+
+1395236661 source:e:\c++\bridge\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1396945125 source:e:\qut it master\inn371 data structures and algorithms\assignment1\assignment1_bridge\bridge\bridge.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"game.h"
+
+1397921381 e:\qut it master\inn371 data structures and algorithms\assignment1\assignment1_bridge\bridge\game.h
+	<string>
+	"deck.h"
+	"hand.h"
+
+1397842264 e:\qut it master\inn371 data structures and algorithms\assignment1\assignment1_bridge\bridge\deck.h
+	"card.h"
+	"random.h"
+
+1397842483 e:\qut it master\inn371 data structures and algorithms\assignment1\assignment1_bridge\bridge\card.h
+
+1395236622 e:\qut it master\inn371 data structures and algorithms\assignment1\assignment1_bridge\bridge\random.h
+
+1397921482 e:\qut it master\inn371 data structures and algorithms\assignment1\assignment1_bridge\bridge\hand.h
+	<string>
+	<set>
+	"card.h"
+
+1397920729 source:e:\qut it master\inn371 data structures and algorithms\assignment1\assignment1_bridge\bridge\card.cpp
+	<iostream>
+	"card.h"
+
+1397910854 source:e:\qut it master\inn371 data structures and algorithms\assignment1\assignment1_bridge\bridge\deck.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"deck.h"
+
+1397921598 source:e:\qut it master\inn371 data structures and algorithms\assignment1\assignment1_bridge\bridge\game.cpp
+	<iostream>
+	"game.h"
+
+1397921482 source:e:\qut it master\inn371 data structures and algorithms\assignment1\assignment1_bridge\bridge\hand.cpp
+	<iostream>
+	<iomanip>
+	"hand.h"
+
+1395236661 source:e:\qut it master\inn371 data structures and algorithms\assignment1\assignment1_bridge\bridge\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
